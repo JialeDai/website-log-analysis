@@ -1,0 +1,14 @@
+/home/hadoop/IdeaProjects/hadoop-train-v2/src/main/java/com/Jdai/bigdata/hadoop/mr/project/mr/PVStatApp.java
+/home/hadoop/IdeaProjects/hadoop-train-v2/src/main/java/com/Jdai/bigdata/hadoop/mr/project/mr/PageStatApp.java
+/home/hadoop/IdeaProjects/hadoop-train-v2/src/main/java/com/Jdai/bigdata/hadoop/mr/project/utils/GetPageId.java
+/home/hadoop/IdeaProjects/hadoop-train-v2/src/main/java/com/Jdai/bigdata/hadoop/mr/project/utils/LogParser.java
+/home/hadoop/IdeaProjects/hadoop-train-v2/src/main/java/com/Jdai/bigdata/hadoop/mr/project/mr/ProvinceStatApp.java
+/home/hadoop/IdeaProjects/hadoop-train-v2/src/main/java/com/Jdai/bigdata/hadoop/mr/project/mr/HourStatApp.java
+/home/hadoop/IdeaProjects/hadoop-train-v2/src/main/java/com/Jdai/bigdata/hadoop/mr/project/mrv2/PageStatV2App.java
+/home/hadoop/IdeaProjects/hadoop-train-v2/src/main/java/com/Jdai/bigdata/hadoop/mr/project/mr/UserNameStatApp.java
+/home/hadoop/IdeaProjects/hadoop-train-v2/src/main/java/com/Jdai/bigdata/hadoop/mr/project/utils/IPSeeker.java
+/home/hadoop/IdeaProjects/hadoop-train-v2/src/main/java/com/Jdai/bigdata/hadoop/mr/project/mrv2/ETLApp.java
+/home/hadoop/IdeaProjects/hadoop-train-v2/src/main/java/com/Jdai/bigdata/hadoop/mr/project/utils/IPParser.java
+/home/hadoop/IdeaProjects/hadoop-train-v2/src/main/java/com/Jdai/bigdata/hadoop/mr/project/mrv2/ProvinceStatV2App.java
+/home/hadoop/IdeaProjects/hadoop-train-v2/src/main/java/com/Jdai/bigdata/hadoop/mr/project/mrv2/HourStatV2App.java
+/home/hadoop/IdeaProjects/hadoop-train-v2/src/main/java/com/Jdai/bigdata/hadoop/mr/project/mrv2/PVStatV2App.java
