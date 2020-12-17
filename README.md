@@ -1,5 +1,5 @@
 # website-log-analysis
-Big data course project using HDFS and MapReduce. \
+Big data course project using HDFS and MapReduce. 
 ## Introduction
 The problem we are addressing is about how to efficiently count the useful information among the huge amount of data. We mainly choose to analysis the following problems: \
 (1)	How do the users distribute according to the region? \
